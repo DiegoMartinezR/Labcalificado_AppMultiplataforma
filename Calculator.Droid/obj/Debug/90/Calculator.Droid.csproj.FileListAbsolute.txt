@@ -1,0 +1,3 @@
+C:\Users\DIEGO\Desktop\Xamarin_Forms___Basic_Calculator\Calculator.Droid\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\DIEGO\Desktop\Xamarin_Forms___Basic_Calculator\Calculator.Droid\obj\Debug\90\build.props
+C:\Users\DIEGO\Desktop\Xamarin_Forms___Basic_Calculator\Calculator.Droid\obj\Debug\90\adb.props
